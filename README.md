@@ -1,6 +1,14 @@
 # Projet_10_Analyse_Data
+---
+**Contenu**
+- Analyse_donnees : analyse et visualisation des datas
+- Script_insertion_bdd : script pour insérer les données, création de la bdd, vue et procédure stockée
+- bdd_pizza : la bdd exportée en sql
+- MCD.JPG : le MCD (il est normalement intégré dans le fichier "Script_insertion_bdd" mais n'apparaît pas toujours correctement)
+- Le cahier des charges (CDC)
 
 ---
+
 ## Contexte du projet
 Vous êtes employés par le CSOB (Central Statistical Office of Breizhmeiz). Vous venez de recevoir un dataset à analyser et votre chef de bureau veut une première expertise sous forme de notebooks dans 2 jours et un cahier des charges à livrer au client.
 
