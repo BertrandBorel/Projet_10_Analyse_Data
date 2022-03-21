@@ -1,6 +1,6 @@
 # Projet_10_Analyse_Data
 ---
-**Contenu**
+## Contenu
 - Analyse_donnees : analyse et visualisation des datas
 - Script_insertion_bdd : script pour insérer les données, création de la bdd, vue et procédure stockée
 - bdd_pizza : la bdd exportée en sql
